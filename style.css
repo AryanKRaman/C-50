@@ -1,0 +1,22 @@
+    p{
+        color:aquamarine;
+        text-align: center;
+    }
+    h2{
+        color:burlywood;
+        text-align: center;
+    }
+    *{
+        border:transparent;
+    }
+  .header{
+      color:blueviolet;
+      background: chocolate;
+      display: flex;
+      justify-content: space-between;
+  }
+  .grid{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-evenly;
+  }
